@@ -1,0 +1,7 @@
+cust_id,cust_pass,cust_status
+1,NewPass1,active
+2,NewPass2,active
+3,NewPass3,active
+4,NewPass4,inactive
+5,NewPass5,inactive
+6,NewPass6,active
