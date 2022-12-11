@@ -1,9 +1,9 @@
 # php_read_csv_create_sql
-Read a csv file with php and take data from each row to contruct sql statments
+Read a csv file with php and take data from each row to construct sql statments
 
 ## Notes:
   * CSV file must have the first row be column headers
-  * columns in first row of csv must be same as table column names
+  * columns in first row of csv must be same as mysql table column names
 
 ## conn.php
   * example mysql connection file
